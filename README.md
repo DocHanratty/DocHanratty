@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DocHanratty
-- 👀 I’m interested in teaching computer science to college students
+- 👀 I teach computer science to college students
 - 📫 How to reach me: mhanratt@uccs.edu
 
 <!---
